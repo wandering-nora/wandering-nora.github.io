@@ -28,9 +28,10 @@ url: "https://wandering-nora.github.io" # the base hostname & protocol for your 
 github_username:  wandering-nora
 
 # Build settings
-theme: jekyll-theme-basically-basic
+theme: mmistakes/jekyll-theme-basically-basic
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
